@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "uECG_v4_5r-rescue")(type "Legacy")(uri "${KIPRJMOD}/uECG_v4_52_lsm_tlv-rescue.lib")(options "")(descr ""))
+)
